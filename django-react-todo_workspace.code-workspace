@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"python.pythonPath": "/home/varad/Code/Snakepit/django-react-todo/bin/python3.8",
+		"python.linting.enabled": true,
+		"python.linting.flake8Path": "/home/varad/Code/Snakepit/django-react-todo/bin/flake8",
+		"python.formatting.provider": "black",
+		"python.formatting.blackPath": "/home/varad/Code/Snakepit/django-react-todo/bin/black",
+	}
+}
